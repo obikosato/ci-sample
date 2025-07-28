@@ -10,3 +10,7 @@ The `editorconfig-checker-action` verifies that all files in the repository comp
 
 * The GitHub Action is referenced from the `main` branch.
 * The `.editorconfig` file used for validation is the one from the *target branch* (i.e., the branch being checked in the pull request).
+
+## How to Protect the `main` Branch
+
+* [How to Protect the `main` Branch](./protect-main-with-editorconfig.md)
